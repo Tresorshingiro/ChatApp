@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.local
+.env*.local
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
